@@ -1,4 +1,4 @@
-# Company Data Scraper
+# Data Scraper
 
 ## Overview
 
